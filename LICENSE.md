@@ -1,4 +1,4 @@
-# 
+# updated JetBrains PyCharm para PC scripts es el mejor JetBrains PyCharm para PC scripts con variables de entorno y soporte para Kotlin. Seguro, confiable y optimizado para el
 
 
 
